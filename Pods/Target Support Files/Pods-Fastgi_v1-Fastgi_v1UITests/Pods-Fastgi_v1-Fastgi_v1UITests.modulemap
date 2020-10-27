@@ -1,0 +1,6 @@
+framework module Pods_Fastgi_v1_Fastgi_v1UITests {
+  umbrella header "Pods-Fastgi_v1-Fastgi_v1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
